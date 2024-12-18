@@ -16,8 +16,8 @@ A log extract file contains:
 **Note**: The data rows are not sorted, grouped, or ordered.
 
 ### Example log file content
-'''
+```
     REQUEST_TIMESTAMP,COUNTRY_CODE,RESPONSE_TIME
     1433190845,US,539
     1432917066,GB,37
-'''
+```
